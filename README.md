@@ -11,6 +11,8 @@ Estudiante del octavo ciclo de la carrera de Economía en la Pontificia Universi
 
 ![Claudia Astucuri's github stats](https://github-readme-stats.vercel.app/api?username=clau2609&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 
-<a href="https://github.com/deut-erium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-</p>
+<p align="center">
+ <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/deut-erium"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <br />
