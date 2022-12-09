@@ -11,5 +11,8 @@ Estudiante del octavo ciclo de la carrera de Economía en la Pontificia Universi
 
 
 [![Claudia Astucuti GitHub stats](https://github-readme-stats.vercel.app/api?username=clau2609)](https://github.com/clau2609/github-readme-stats)
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=clau2609&show_icons=true&hide_border=true)
+
+<a href="https://github.com/clau2609">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clau2609&layout=compact" />
+</a>
 <br />
