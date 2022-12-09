@@ -9,10 +9,6 @@ Estudiante del octavo ciclo de la carrera de Economía en la Pontificia Universi
 - ⚡ Aptitudes: destaco en responsabilidad, dedicación, puntualidad, trabajo en equipo, habilidad comunicativa
 -->
 
+![Claudia Astucuri's github stats](https://github-readme-stats.vercel.app/api?username=clau2609&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 
-[![Claudia Astucuti GitHub stats](https://github-readme-stats.vercel.app/api?username=clau2609)](https://github.com/clau2609/github-readme-stats)
-
-<a href="https://github.com/clau2609">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clau2609&layout=compact" />
-</a>
 <br />
